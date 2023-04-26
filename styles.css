@@ -7,9 +7,9 @@ img {
     object-fit: cover;
     object-position: auto;
 }
-.flex-container {
+.flex-container img {
    display: flex;
-   flex-direction: row;
-   flex-wrap: wrap;
-
+   flex-direction:row;
+   width: flex;
 }
+
